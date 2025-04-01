@@ -25,8 +25,8 @@ A responsive website for Jaunt Merchandise Overseas, an Indian export startup.
 ## 💻 Run Locally  
 
 ```bash
-git clone https://github.com/sharad/jmo-exports.git
-cd jmo-exports
+git clone https://github.com/sharadj19/jmo.git
+cd jmo
 npm install
 npm run dev
 ```
