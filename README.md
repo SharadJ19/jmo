@@ -1,34 +1,23 @@
-# 🌐 JMO Exports – Company Website  
+# Sharad Chandel
 
-![Website Screenshot](https://github.com/user-attachments/assets/e05bd1ce-515b-4e38-8dd7-75525b8f2c7a)  
+Hi, I'm Sharad — a full-stack developer focused on building clean and functional web apps.
 
-A responsive website for Jaunt Merchandise Overseas, an Indian export startup.  
+[Portfolio](https://sharad.is-a.dev/) • [LinkedIn](https://www.linkedin.com/in/sharadchandel2005/) • [Email](mailto:sharadchandel2005@gmail.com)
 
-**🔗 Live Demo:** [jmo.vercel.app](https://jmo.vercel.app/)  
+**Tech Stack**
 
-## 🛠️ Built With  
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **DevOps & Cloud:** Docker, AWS, Render
+  
+**Projects**
 
-- **React** + **Vite**  
-- **Tailwind CSS**  
-- **Framer Motion** (animations)  
-- **EmailJS** (contact form)  
-- **Vercel** (hosting)  
-
-## ✨ Features  
-
-- Smooth scroll animations  
-- Mobile-friendly layout  
-- Product showcase  
-- Working contact form  
-- Optimized performance  
-
-## 💻 Run Locally  
-
-```bash
-git clone https://github.com/sharadj19/jmo.git
-cd jmo
-npm install
-npm run dev
-```
-
-*Deployed on Vercel with auto CI/CD* 
+| Project | Type | Live | Code |
+|:--------|:----:|:----:|:----:|
+| ArtCraft | 🛒 E-commerce | [🔗](https://artcraft.onrender.com/) | [🛠️](https://github.com/SharadJ19/art-and-craft-ecom) |
+| HomeEase | 🏡 Marketplace | [🔗](https://homeease-oa77.onrender.com/) | [🛠️](https://github.com/SharadJ19/homeease) |
+| Anonchat | 💬 Chat App | [🔗](https://anonchat-w4dw.onrender.com/) | [🛠️](https://github.com/SharadJ19/anonchat) |
+| JMO Exports | 🌍 Company Website | [🔗](https://jmo.vercel.app/) | [🛠️](https://github.com/SharadJ19/jmo) |
+| MDeditor | ✍️ Markdown Editor | [🔗](https://mdeditor.onrender.com/) | [🛠️](https://github.com/SharadJ19/mdeditor) |
+| AI Chatbot | 🤖 Chatbot | [🔗](https://aichatbot-93ke.onrender.com/) | [🛠️](https://github.com/SharadJ19/aichatbot) |
