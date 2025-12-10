@@ -36,10 +36,6 @@
 | **Form Handling** | EmailJS       |
 | **Hosting**       | Vercel        |
 
-## 🚀 Live Demo
-
-🔗 **Live Demo →** *([https://jmo.vercel.app](https://jmo.vercel.app))*
-
 ## ⚙️ Run Locally
 
 ```bash
